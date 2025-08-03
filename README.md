@@ -66,4 +66,4 @@ java TradingPlatform
 The program will start and you can interact with the platform to test its functionality.
 =======
 # CodeAlpha_StockTradingPlatform
->>>>>>> 7996295 (Initial commit)
+
