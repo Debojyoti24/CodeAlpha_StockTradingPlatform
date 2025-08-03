@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Trading Platform
 
 A simple stock trading platform implemented in Java.
