@@ -1,3 +1,4 @@
+package CodeAlpha_StockTradingPlatform;
 import java.io.*;
 import java.util.*;
 

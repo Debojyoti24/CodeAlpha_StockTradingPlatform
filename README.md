@@ -58,7 +58,7 @@ This project is licensed under the [MIT License](LICENSE).
 To run the tests for the Trading Platform, execute the following command:
 
 ```
-javac *.java
+javac TradingPlatform.java
 java TradingPlatform
 ```
 
