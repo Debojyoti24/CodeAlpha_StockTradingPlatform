@@ -149,7 +149,7 @@ class StockMarket {
         }
     }
 }
-
+// 
 class TradingPlatform {
     private Map<String, User> users;
     private StockMarket market;
